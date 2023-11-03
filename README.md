@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lupinthe404th
 - 👀 I’m interested in development, security, gaming, world domination...ocassionally
--  C++/C# malware development
-AV/EDR bypassses and evasion
+-  C++/C# malware development, 
+AV/EDR bypassses and evasion, 
 New tooling
 - 🌱 I’m currently learning to refine dev and security skills 
 - 💞️ I’m looking to collaborate on anything 
